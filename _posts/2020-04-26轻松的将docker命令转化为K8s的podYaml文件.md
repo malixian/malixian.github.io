@@ -7,7 +7,8 @@ author:     malixian
 header-img: img/post-bg-cook.jpg
 catalog: true
 tags:
-    - docker Kubernetes
+    - docker
+    - Kubernetes
 ---
 ## Introduction
 在使用k8s或者开发k8s相关项目时候，我们通常要写一个yaml文件进行测试，但是写Yaml的文件
